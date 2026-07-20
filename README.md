@@ -33,7 +33,7 @@
 
 ![](https://streak-stats.demolab.com/?user=sakshixagr12&theme=rose&hide_border=true)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakshixagr12&theme=rose&hide_border=true&include_all_commits=true&count_private=false&layout=compact)!
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakshixagr12&theme=rose&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=sakshixagr12&icon=0&color=ff69b4)](https://visitcount.itsvg.in)
